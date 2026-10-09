@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+<title id="title">Brazzom video preview placeholder</title><desc id="desc">Dark navy background with blue neon accents and a play symbol.</desc>
+<defs><radialGradient id="glow"><stop offset="0" stop-color="#123f73"/><stop offset="1" stop-color="#03060d"/></radialGradient><linearGradient id="line"><stop stop-color="#5cf2ff"/><stop offset="1" stop-color="#398dff"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#glow)"/><circle cx="640" cy="330" r="118" fill="#0c2543" stroke="url(#line)" stroke-width="3"/><path d="M610 270 L700 330 L610 390 Z" fill="#5cf2ff"/>
+<text x="640" y="510" fill="#f5f8ff" font-family="Arial,sans-serif" font-size="42" font-weight="700" text-anchor="middle" letter-spacing="8">BRAZZOM</text><text x="640" y="555" fill="#91a7ca" font-family="Arial,sans-serif" font-size="18" text-anchor="middle" letter-spacing="5">VIDEO PREVIEW</text>
+</svg>
