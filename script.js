@@ -6,7 +6,7 @@
 */
 const LOCKER_URL = "PASTE_YOUR_CPAGRIP_LOCKER_URL_HERE";
 const VIDEO_URL = "";
-const POSTER_URL = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh3qVOuoXKtc7oFp4FZYzVASmfgsNh9fT9KFlP8t5NfB6KTffpit-Diwk&s=10";
+const POSTER_URL = "";
 
 const button = document.getElementById("unlockButton");
 const video = document.getElementById("previewVideo");
